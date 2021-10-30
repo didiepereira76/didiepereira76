@@ -7,7 +7,7 @@
 
 
 - 📋 Trabalhando atualmente na **[Prefeitura Municipal de Santos](https://www.santos.sp.gov.br/)**
-- 📧 Contato: <didie@globo.com>
+- 📧 Contato: <herunim@gmail.com>
 
 <!--
 **didiepereira76/didiepereira76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
