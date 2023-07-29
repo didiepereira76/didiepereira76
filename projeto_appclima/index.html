@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Aplicativo Clima</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="current-info">
+
+            <div class="date-container">
+
+                <div class="time" id="time">
+                    12:30 <span id="am-pm">PM</span>
+                </div>
+
+                <div class="date" id="date">
+                    Domingo, 16 janeiro
+                </div>
+
+                <div class="others" id="current-weather-items">
+
+
+                </div>
+
+            </div>
+
+            <div class="place-container">
+                <div class="time-zone" id="time-zone">América do Sul/Santos</div>
+                <div class="country" id="country">BR</div>
+            </div>
+
+        </div>
+
+
+    </div>
+    </div>
+
+    <div class="future-forecast">
+        <div class="today" id="current-temp">
+            <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="weather icon" class="w-icon">
+            <div class="other">
+                <div class="day">Segunda</div>
+                <div class="temp">Dia - 33&#176 C</div>
+                <div class="temp">Noite - 24&#176 C</div>
+            </div>
+
+        </div>
+
+        <div class="weather-forecast" id="weather-forecast">
+
+            <div class="weather-forecast-item">
+                <div class="day">Ter</div>
+                <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="weather icon" class="w-icon">
+                <div class="temp">Dia - 33&#176 C</div>
+                <div class="temp">Noite - 24&#176 C</div>
+            </div>
+
+            <div class="weather-forecast-item">
+                <div class="day">Qua</div>
+                <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="weather icon" class="w-icon">
+                <div class="temp">Dia - 33&#176 C</div>
+                <div class="temp">Noite - 24&#176 C</div>
+            </div>
+
+            <div class="weather-forecast-item">
+                <div class="day">Qui</div>
+                <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="weather icon" class="w-icon">
+                <div class="temp">Dia - 33&#176 C</div>
+                <div class="temp">Noite - 24&#176 C</div>
+            </div>
+
+            <div class="weather-forecast-item">
+                <div class="day">Sex</div>
+                <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="weather icon" class="w-icon">
+                <div class="temp">Dia - 33&#176 C</div>
+                <div class="temp">Noite - 24&#176 C</div>
+            </div>
+
+            <div class="weather-forecast-item">
+                <div class="day">Sab</div>
+                <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="weather icon" class="w-icon">
+                <div class="temp">Dia - 33&#176 C</div>
+                <div class="temp">Noite - 24&#176 C</div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"
+        integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
