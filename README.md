@@ -1,6 +1,6 @@
 # Diêgas Pereira
 
-### _Funcionário Público / Técnico em montagem e manutenção de computadores_
+### _Funcionário Público / Técnico em montagem e manutenção de computadores / Entusiasta da programação
 
 
 ### Olá! Seja bem-vindo ao meu perfil pessoal. 👋
