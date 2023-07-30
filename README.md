@@ -10,8 +10,7 @@
 - 📋 Trabalhando atualmente na **[Prefeitura Municipal de Santos](https://www.santos.sp.gov.br/)**
 - 📧 Contato: <herunim@gmail.com>
 
-- (https://github.com/didiepereira76/didiepereira76/assets/91834538/b9e5ed58-7725-46e5-832e-4fc8b0d8d4fa)
- ![icons8-notebook-16]Atualmente aprendendo **Data Science**
+- ![icons8-notebook-16](https://github.com/didiepereira76/didiepereira76/assets/91834538/a1aeb3e4-d442-45b1-b6d2-d981db008914) Atualmente aprendendo **Data Science**
 
 <!--
 **didiepereira76/didiepereira76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
