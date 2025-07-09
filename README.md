@@ -7,7 +7,7 @@
 ### Olá! Seja bem-vindo ao meu perfil pessoal. 👋
 
 
-- 📋 Trabalhando atualmente na **[Prefeitura Municipal de Santos](https://www.santos.sp.gov.br/)**
+- 📋 Trabalhando atualmente na **[CET Santos](https://cetsantos.com.br/)**
 - 📧 Contato: <herunim@gmail.com>
 
 - ![icons8-notebook-16](https://github.com/didiepereira76/didiepereira76/assets/91834538/a1aeb3e4-d442-45b1-b6d2-d981db008914) Atualmente aprendendo **Data Science**
